@@ -32,16 +32,16 @@ This outlines the post-install configuration of the open-source help desk ticket
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+Configure Roles: <br/>
+<img width="450" alt="1 Supreme Admin role with all permissions" src="https://github.com/user-attachments/assets/ba124b99-8a47-47ff-ba18-29d1f00c192f" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> Click on Admin Panel, then click on Agents, and finally on Roles, allowing Suprime Admin to have access to all the permissions. This ensures that there is always a user with the ability to recover, configure, or troubleshoot the system.
+<p>Admin Panel -> Agents -> Roles</p>
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+Configure Departments: <br/>
+<img width="450" alt="2 Configuring Teams(Assigning)" src="https://github.com/user-attachments/assets/401e66f7-cf53-4629-8439-c92d2feb4a73" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
