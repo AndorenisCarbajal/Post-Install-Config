@@ -48,4 +48,13 @@ Configure Teams: <br/>
 To configure a team, go to Admin Panel, then agents, and finally teams, which completes the process of adding teams, which sets a group of agents from different departments with the helpdesk system to work together on a specific ticket.
 <p>Admin Panel -> Agents -> Teams (Pull Agents from different Departments)</p>
 </p>
-<br />
+<p align="center">
+Allow anyone to create tickets: <br/>
+<img width="450" alt="3 Uncheck-Allowing unregistered users to create tickets" src="https://github.com/user-attachments/assets/e24683ee-106d-4e75-92f1-2f6a483f2104" />
+</p>
+<p>
+In this Process, we will allow anyone to create a ticket. Go to Admin Panel, settings, and then to user settings, which will allow you to uncheck unregistered users, allowing them permission to create a ticket. 
+<p>Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
+</p>
+</p>
+
