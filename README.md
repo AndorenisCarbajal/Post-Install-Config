@@ -6,10 +6,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This outlines the post-install configuration of the open-source help desk ticketing system osTicket.
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -41,17 +37,15 @@ Configure Roles: <br/>
 </p>
 <p align="center">
 Configure Departments: <br/>
-<img width="450" alt="2 Configuring Teams(Assigning)" src="https://github.com/user-attachments/assets/401e66f7-cf53-4629-8439-c92d2feb4a73" />
+Click on Admin Panel, then Roles, and finally Departments, allowing SysAdmin to see all tickets. This ensures efficient ticket routing, role-based access, and clear responsibilities.
+<p>Admin Panel -> Agents -> Departments</p>
+</p>
+<p align="center">
+Configure Teams: <br/>
+<img width="450" alt="2 Configuring Teams(Assigning)" src="https://github.com/user-attachments/assets/15467554-d60f-4c78-b9b1-737aaa9c3547" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To configure a team, go to Admin Panel, then agents, and finally teams, which completes the process of adding teams, which sets a group of agents from different departments with the helpdesk system to work together on a specific ticket.
+<p>Admin Panel -> Agents -> Teams (Pull Agents from different Departments)</p>
 </p>
 <br />
