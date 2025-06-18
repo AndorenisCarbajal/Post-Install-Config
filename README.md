@@ -66,14 +66,26 @@ To configure an agent, it properly ensures they have the correct permissions, de
 </p>
 <p align="center">
 Configure Users (customers): <br/>
-<img width="450" alt="5 Configuring Access Levels to Users (Costumers)" src="https://github.com/user-attachments/assets/962ddefa-18f6-4680-920d-65044046c094" />
+<img width="450" alt="5 Configuring Access Levels to Users (Customers)" src="https://github.com/user-attachments/assets/962ddefa-18f6-4680-920d-65044046c094" />
 </p>
 <p>
 Go to Agent Panel and then Users, and add a new user. This allows you to manage their profiles, view ticket history, organize them into organizations, and ensure smooth communication.
 <p>Agent Panel -> Users -> Add New</p>
 </p>
-
-
-
+<p align="center">
+Configure SLA: <br/>
+<img width="450" alt="6 Configuring SLA's (Service Level Agreement)" src="https://github.com/user-attachments/assets/10028436-fc98-4921-91bb-54ab655a5647" />
+</p>
+<p>
+On the Admin Panel, click manage, and then go to SLA, and create multiple SLA plans for your different clients. This ensures structured and timely support, boosts customer satisfaction, and helps your team stay on track with their response goals.
+<p>Admin Panel -> Manage -> SLA</p>
+</p>
+<p align="center">
+Configure Help Topics (For when users create a ticket): <br/>
+<img width="450" alt="7 Help Topic Configuring" src="https://github.com/user-attachments/assets/7a8aa169-5dd6-4716-ac8e-ddc28b35f115" />
+</p>
+<p>
+On the Admin Panel, go to Manage and then Help topics, create help topics for predefined categories that users select when submitting a ticket. This helps classify requests, route tickets automatically, and customize forms or workflows.
+<p>Admin Panel -> Manage -> Help Topics</p>
 </p>
 
