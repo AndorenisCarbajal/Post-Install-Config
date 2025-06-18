@@ -56,5 +56,24 @@ Allow anyone to create tickets: <br/>
 In this Process, we will allow anyone to create a ticket. Go to Admin Panel, settings, and then to user settings, which will allow you to uncheck unregistered users, allowing them permission to create a ticket. 
 <p>Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 </p>
+<p align="center">
+Configure Agents (workers): <br/>
+<img width="450" alt="4 Added Agents (workers)" src="https://github.com/user-attachments/assets/0a719ead-c355-4e1f-b7c6-e4794e4bb4df" />
+</p>
+<p>
+To configure an agent, it properly ensures they have the correct permissions, department access, and roles to do their job effectively. Same process go the Admin Panel, click on agent, and then add a new worker and just fill out the info.
+<p>Admin Panel -> Agents -> Add New</p>
+</p>
+<p align="center">
+Configure Users (customers): <br/>
+<img width="450" alt="5 Configuring Access Levels to Users (Costumers)" src="https://github.com/user-attachments/assets/962ddefa-18f6-4680-920d-65044046c094" />
+</p>
+<p>
+Go to Agent Panel and then Users, and add a new user. This allows you to manage their profiles, view ticket history, organize them into organizations, and ensure smooth communication.
+<p>Agent Panel -> Users -> Add New</p>
+</p>
+
+
+
 </p>
 
